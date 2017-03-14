@@ -1,0 +1,2 @@
+First writing in file
+First appending in file
